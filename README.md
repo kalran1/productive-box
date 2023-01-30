@@ -16,7 +16,7 @@
    <br/>
    When are you most productive during the day?
    <br/>
-   Let's check out in gist!test12
+   Let's check out in gist!test123
 </p>
 
 ---
@@ -47,3 +47,6 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
 1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
+
+
+1. 워크플로우에서 push 권한 오류시 세팅 > 액션 > 제너럴 > 워크플로우 읽기 및 쓰기권한 체크할것 
